@@ -10,4 +10,5 @@ Dataset: https://drive.google.com/drive/folders/1y-or_Rba1ambWkkNzhYKtRHRwC7g0A5
 Data Description: https://docs.google.com/document/d/1BdZLih-YLpJa9RoWtDenhGJAvyyGHwb60CzFHlHc2F8/edit#heading=h.ct7zsgugqllr
 
 ### Full Medium Article: 
+https://medium.com/@vaniaelvinaa/olist-e-commerce-sales-analysis-7837d43f37da
 
